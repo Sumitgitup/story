@@ -1,1 +1,4 @@
-this is my story and i want to tell to everyone and this is will be incredable
+This is the chapter 1 of the book 
+
+commiting changes to the github repo
+
